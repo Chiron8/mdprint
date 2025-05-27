@@ -21,3 +21,7 @@ Make sure to reload your terminal emulator or restart your system afterwards
 Requires one parameter: FILENAME
 
 `mdprint FILENAME`
+
+---
+
+I might make this a neovim plugin soon but I don't know lua :O
